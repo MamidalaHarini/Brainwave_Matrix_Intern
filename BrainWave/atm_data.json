@@ -1,0 +1,11 @@
+{
+    "user123": {
+        "password": "7eaf4114940659b2e2bc44501c915cbaad4e6fe44b6b00a34970ed432ed9a89a",
+        "balance": 35000.0,
+        "transactions": [
+            "2024-11-22 18:39:37 - Deposited: $20000.0",
+            "2024-11-22 18:39:46 - Withdrew: $15000.0",
+            "2024-11-22 18:40:01 - Deposited: $30000.0"
+        ]
+    }
+}
